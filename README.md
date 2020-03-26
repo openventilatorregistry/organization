@@ -8,7 +8,7 @@ This allows for pull requests/issues/ideas to be proposed and version controlled
 
 [`about.md`](about.md): information about us and the mission statement (ported over from the wiki)
 
-[`meeting-notes/`](meeting-notes/README.md): contains all meeting notes, organized by date
+[`meeting-notes/`](meeting-notes/): contains all meeting notes, organized by date
 
 ## Previous organization documents
 Project spec and preliminary user stories:
