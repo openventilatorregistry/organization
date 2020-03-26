@@ -15,6 +15,7 @@ This allows for pull requests/issues/ideas to be proposed and version controlled
 [`meeting-notes/`](meeting-notes/): contains all meeting notes, organized by date
 (from the `Design` repo)
 
+[`landing-page-information.rtf`](landing-page-information.rtf): contains the necessary, minimum information that a landing page and finished product must convey 
 
 ## Previous organization documents
 Project spec and preliminary user stories:
