@@ -4,11 +4,17 @@ The purpose of this repo is to organize the notes, ideas, and wiki documents int
 This allows for pull requests/issues/ideas to be proposed and version controlled with git.
 
 ## Layout
-[`organization.md`](organization.md): leadership hierarchy (directly ported from the sign-up document)
+[`organization.md`](organization.md): leadership hierarchy 
+(directly ported from the sign-up document)
 
-[`about.md`](about.md): information about us and the mission statement (ported over from the wiki)
+
+[`about.md`](about.md): information about us, mission statement, and the project specs 
+(from the wiki, Google doc, and [ventilatorregistry.org](ventilatorregistry.org))
+
 
 [`meeting-notes/`](meeting-notes/): contains all meeting notes, organized by date
+(from the `Design` repo)
+
 
 ## Previous organization documents
 Project spec and preliminary user stories:
