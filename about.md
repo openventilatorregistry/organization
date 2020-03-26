@@ -3,6 +3,19 @@
 ## Mission Statement (intially from ventilatorregistry.org)
 The Open Ventilator Registry aims to help hospitals and medical facilities share their ventilator inventory status and needs. Aggregated national demand can help raise awareness of the ongoing COVID-19 emergency, while helping suppliers identify which regions and hospitals have the greatest needs.
 
+## Use Case (from initial project spec Google doc)
+The setup of a contact index between hospitals and suppliers. 
+
+Primary components:
+- A hospital profile page, maintained by each hospital point of contact
+- A business profile page, maintained by each business point of contact
+- A demand index page, automatically generated and summarizing all hospital demand, utilized by business operators to identify urgent need
+- A supply index page, automatically generated and summarizing all business supply, utilized by hospitals managers to identify available supply sources 
+
+The governing principle in this proposal is that both supply side and demand side will be enabled to identify opportunities of order fulfillment and need. The contract negotiation is left to the parties involved, with VSP offering only status, discovery and the necessary contact information via profile pages. 
+
+Implicit in the status information provided by both the supply and demand side is the ability to summarize time series data trends, in aggregate, across all businesses and hospitals. Greater participation will result in greater visibility to the macro trends, while also increases likelihood of supply-demand matching for the most urgent needs. 
+
 
 ## What are we doing?
 The Open Ventilator Registry project is answering [the call](https://www.nytimes.com/2020/03/22/opinion/health/ventilator-shortage-coronavirus-solution.html) to provide a cloud-based national registry of ventilators and the hospitals that need them most
