@@ -3,13 +3,13 @@
 ## About
 **Leaders: Kevin (@wintercarver), Brady (@brady), Jordan (@jordan), @Supernoir, Brandon (@gooftroop88)**
 
-*Goal:* this document serves to identify organizers to manage planning for each primary component. Given the nature of this project (fast, distributed, volunteer), we must rely on multiple people sharing ownership and coordinating effectively. Keep in mind our goal is progress and simplicity to get to a functioning service ASAP. Let’s maintain a low ego, and double down on collaboration, respect and transparency. Let’s have fun, too! 
+**Goal:** this document serves to identify organizers to manage planning for each primary component. Given the nature of this project (fast, distributed, volunteer), we must rely on multiple people sharing ownership and coordinating effectively. Keep in mind our goal is progress and simplicity to get to a functioning service ASAP. Let’s maintain a low ego, and double down on collaboration, respect and transparency. Let’s have fun, too! 
 
-*Lead(s):* Primary contributor and decision maker for their system. Can be more than one, in which case they should collaborate in tandem. No more than three people.
+**Lead(s):** Primary contributor and decision maker for their system. Can be more than one, in which case they should collaborate in tandem. No more than three people.
 
-*Collaborators:* If you can collaborate and contribute to a given system, please list your name. Leads can call on you to take on tasks that can be done in parallel and review work. 
+**Collaborators:** If you can collaborate and contribute to a given system, please list your name. Leads can call on you to take on tasks that can be done in parallel and review work. 
 
-*Reference Doc:* Your system should have a planning document that drives your activities and organizes your decisions. Link it here.
+**Reference Doc:** Your system should have a planning document that drives your activities and organizes your decisions. Link it here.
 
 | System             | Lead(s)                          | Collaborators                           | Channel   |
 |--------------------|----------------------------------|-----------------------------------------|-----------|
